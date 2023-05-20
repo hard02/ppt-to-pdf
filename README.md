@@ -30,4 +30,4 @@ This Python script allows you to convert PowerPoint (PPT/PPTX) files to PDF form
 7. The script will convert each selected PowerPoint file to PDF and save it in the specified output folder.
 8. Once the conversion is complete, the script will display a success message.
 
->Note: The converted PDF files will be saved with the same name as the original PowerPoint files in the output folder.
+>Note: The converted PDF files will be saved with the same name as the original PowerPoint files in the **output** folder.
